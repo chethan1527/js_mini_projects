@@ -1,0 +1,19 @@
+body{
+    background-color:sandybrown;
+}
+h1{
+    text-align: center;
+}
+#digitalClock{
+    position: absolute;
+    color: rgb(215, 238, 130);
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    border: 1px solid red;
+    background-color: black;
+    padding: 1px 5px;
+
+}
