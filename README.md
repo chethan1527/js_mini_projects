@@ -1,9 +1,9 @@
 # js_mini_projects
 This repository contains three simple JavaScript projects:
 
-Digital Clock
-Calculator
-To-Do List
+1. Digital Clock
+2. Calculator
+3. To-Do List
 Each project is contained in its own directory with separate HTML, CSS, and JavaScript files.
 
 Digital Clock
